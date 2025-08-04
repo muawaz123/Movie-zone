@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Movie-zone/static/css/main.21ba8fa4.css",
+    "main.js": "/Movie-zone/static/js/main.6342dd8c.js",
+    "static/js/453.3a6eece5.chunk.js": "/Movie-zone/static/js/453.3a6eece5.chunk.js",
+    "index.html": "/Movie-zone/index.html",
+    "main.21ba8fa4.css.map": "/Movie-zone/static/css/main.21ba8fa4.css.map",
+    "main.6342dd8c.js.map": "/Movie-zone/static/js/main.6342dd8c.js.map",
+    "453.3a6eece5.chunk.js.map": "/Movie-zone/static/js/453.3a6eece5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21ba8fa4.css",
+    "static/js/main.6342dd8c.js"
+  ]
+}
